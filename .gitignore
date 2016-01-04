@@ -1,8 +1,9 @@
+*.sublime-workspace
 .DS_Store
-.svn
-log/*.log
-tmp/**
-node_modules/
 .sass-cache
+.svn
 css/reveal.min.css
 js/reveal.min.js
+log/*.log
+node_modules/
+tmp/**
